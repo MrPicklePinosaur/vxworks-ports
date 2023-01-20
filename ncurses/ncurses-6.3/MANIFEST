@@ -1196,8 +1196,6 @@
 ./test/padview.c
 ./test/pair_content.c
 ./test/parse_rgb.h
-./test/picsmap.c
-./test/picsmap.h
 ./test/popup_msg.c
 ./test/popup_msg.h
 ./test/programs

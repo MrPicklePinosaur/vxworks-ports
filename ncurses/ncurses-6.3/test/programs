@@ -83,7 +83,6 @@ ncurses		$(LDFLAGS_DEFAULT)	$(LOCAL_LIBS)	ncurses
 newdemo		$(LDFLAGS_CURSES)	$(LOCAL_LIBS)	newdemo
 padview		$(LDFLAGS_CURSES)	$(LOCAL_LIBS)	padview popup_msg
 pair_content	$(LDFLAGS_CURSES)	$(LOCAL_LIBS)	pair_content
-picsmap		$(LDFLAGS_CURSES)	$(LOCAL_LIBS)	picsmap
 railroad	$(LDFLAGS_TINFO)	$(LOCAL_LIBS)	railroad
 rain		$(LDFLAGS_THREADS)	$(LOCAL_LIBS)	rain popup_msg
 redraw		$(LDFLAGS_CURSES)	$(LOCAL_LIBS)	redraw popup_msg

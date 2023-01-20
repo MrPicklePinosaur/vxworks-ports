@@ -87,7 +87,6 @@ ncurses		progs		$(srcdir)	$(HEADER_DEPS)	$(incdir)/panel.h $(incdir)/menu.h $(in
 newdemo		progs		$(srcdir)	$(HEADER_DEPS)
 padview		progs		$(srcdir)	$(HEADER_DEPS)	$(srcdir)/widechars.h	$(srcdir)/popup_msg.h
 pair_content	progs		$(srcdir)	$(HEADER_DEPS)
-picsmap		progs		$(srcdir)	$(HEADER_DEPS)
 popup_msg	progs		$(srcdir)	$(HEADER_DEPS)	$(srcdir)/popup_msg.h
 railroad	progs		$(srcdir)	$(HEADER_DEPS)
 rain		progs		$(srcdir)	$(HEADER_DEPS)	$(srcdir)/popup_msg.h
